@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsAssignment</string>
+    <string name="app_title">Taaza Khabar</string>
+    <string name="showing_result_for">Results for %s</string>
+    <string name="generic_error_message">Something went wrong</string>
+    <string name="read_more">Read More...</string>
+    <string name="invalid_url">Invalid url</string>
+    <string name="retry">Retry</string>
+    <string name="save">Save</string>
+    <string name="loading_news_for_you">Loading news for you</string>
+    <string name="no_save_articles">No saved articles</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="search">Search</string>
+    <string name="showing_cached_results">Showing Cached Results</string>
+</resources>
